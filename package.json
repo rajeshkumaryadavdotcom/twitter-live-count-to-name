@@ -1,0 +1,17 @@
+{
+  "name": "twitter-live-counter-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "number-to-emoji": "^1.0.0",
+    "twit": "^2.2.11"
+  }
+}
